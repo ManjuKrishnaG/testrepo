@@ -1,0 +1,18 @@
+
+course 5
+
+Congratulations on completing this Python Project! We hope you enjoyed it.
+
+As a next step, you can explore the courses below to further hone and develop your skills for working with Data and Python:
+
+Databases and SQL for Data Science with Python
+
+Data Analysis with Python
+
+Data Visualization with Python
+
+If you are looking to start a career in either Data Analytics or Data Science, note that these courses are part of the IBM Data Analytics Professional Certificate and the IBM Data Science Professional Certificate, which are designed to empower you with the skills to become job-ready in these fields. 
+
+We encourage you to leave your feedback and rate this course.
+
+Good luck!
